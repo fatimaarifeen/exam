@@ -1,0 +1,27 @@
+.cal{
+	background-color: purple;
+	color: white;
+/*	margin: 500px;*/
+/*	padding: 500px;*/
+	text-align: center;
+	margin-top: 70px;
+	margin-left: 500px;
+	margin-right: 500px;
+	padding: 20px;
+}
+input{
+	background-color: black;
+	padding: 5px;
+	color: white;
+}
+body{
+	
+}
+
+button{
+	padding: 10px;
+	border-radius: 10px;
+	background-color: royalblue;
+	color: white;
+	font-weight: 700;
+}
